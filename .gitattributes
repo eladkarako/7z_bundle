@@ -1,0 +1,17 @@
+*.exe            binary
+
+*.dll            binary
+
+*.sfx            binary
+
+*.chm            binary
+
+*.reg            text    eol=crlf
+
+*.ion            text    eol=crlf
+
+*.txt            text    eol=crlf
+
+*.md             text    eol=crlf
+
+README.md                eol=crlf
