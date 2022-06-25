@@ -55,6 +55,9 @@ additional reg files (under 'resources'):
 |   7zCon.sfx
 |   7zFM.exe
 |   7zG.exe
+|   7za.exe
+|   7za.dll
+|   7zxa.dll
 |   
 +---Codecs
 |       brotli-x64.dll
